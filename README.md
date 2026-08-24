@@ -3,7 +3,7 @@
 ### `BSc Cyber Security Student | Aspiring Cybersecurity Professional`
 
 <p align="center">
-  <img src="./assets/profile.png" alt="Biswajit Mandal" width="170" />
+ <img src="./profile.png" alt="Biswajit Mandal" width="170" />
 </p>
 
 <p align="center">
