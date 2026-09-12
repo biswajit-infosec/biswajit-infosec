@@ -102,11 +102,12 @@ Malware Analysis             ██████░░░░░░░░░░░
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=biswajit-infosec&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Biswajit's GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajit-infosec&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages"/>
-</p>
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=biswajit-infosec&show_icons=true&theme=tokyonight&hide_border=true" alt="Biswajit's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajit-infosec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 ---
 
 ## 🔥 Contribution Streak
